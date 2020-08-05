@@ -10,6 +10,18 @@
   color: var(--color-text-in-primary);
 }
 
+.logo-container {
+  text-align: center;
+  margin-bottom: 3.2rem;
+}
+
+.logo-container h2 {
+  font-weight: 500;
+  font-size: 3.6rem;
+  margin-top: 1rem;
+  line-height: 4.6rem;
+}
+
 .logo-container img {
   width: 30rem;
 }
